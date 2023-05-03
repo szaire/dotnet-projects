@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LRIjSv/4QzPb5qAS2lzJgG6GRUHvuPqYGC9AEGAb2asoAdL1Vg4LXwdd6uoVqcR7a9Yx2P9oiNpf4m4nFxYQ8g==",
+  "dgSpecHash": "A7BGNUwaaHJm21MMrYOt9StdBXFzN8l4LfMQ+kB54l+6pxzWiK9K8TaEuY7d5zg10nvSaGdriNuP5MQ7dXnMPw==",
   "success": true,
-  "projectFilePath": "/home/samueo/DIOprojects/temp/01.fundamentos_dotnet/etapa11/temp.csproj",
+  "projectFilePath": "/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/etapa11.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

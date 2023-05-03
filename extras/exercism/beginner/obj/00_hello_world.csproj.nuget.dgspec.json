@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/00_hello_world.csproj": {}
+    "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/00_hello_world.csproj": {}
   },
   "projects": {
-    "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/00_hello_world.csproj": {
+    "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/00_hello_world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/00_hello_world.csproj",
+        "projectUniqueName": "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/00_hello_world.csproj",
         "projectName": "00_hello_world",
-        "projectPath": "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/00_hello_world.csproj",
+        "projectPath": "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/00_hello_world.csproj",
         "packagesPath": "/home/samueo/.nuget/packages/",
-        "outputPath": "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/obj/",
+        "outputPath": "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/samueo/.nuget/NuGet/NuGet.Config"

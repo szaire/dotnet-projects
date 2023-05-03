@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c2FFchmU2tWmVIkMEKXhB2oLZyCCxCYVaOMIUd+LvqzJhYq0heuTnSVw+sxUbyIuHqoKJtfRhHBwW44Pm/ayUw==",
+  "dgSpecHash": "us6fh9rtD7e8+czLiGqgrR5yV+UPdlCozR8N5gXvVOSfZlYNSlrOsKOFKN8M0bKHEorGZgRTsKP3ImVijjmFfg==",
   "success": true,
-  "projectFilePath": "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/00_hello_world.csproj",
+  "projectFilePath": "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/beginner.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

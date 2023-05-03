@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/samueo/DIOprojects/temp/01.fundamentos_dotnet/etapa11/temp.csproj",
-      "projectName": "temp",
-      "projectPath": "/home/samueo/DIOprojects/temp/01.fundamentos_dotnet/etapa11/temp.csproj",
+      "projectUniqueName": "/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/etapa11.csproj",
+      "projectName": "etapa11",
+      "projectPath": "/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/etapa11.csproj",
       "packagesPath": "/home/samueo/.nuget/packages/",
-      "outputPath": "/home/samueo/DIOprojects/temp/01.fundamentos_dotnet/etapa11/obj/",
+      "outputPath": "/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/samueo/.nuget/NuGet/NuGet.Config"

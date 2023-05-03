@@ -1,0 +1,15 @@
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/bin/Debug/net6.0/00_hello_world
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/bin/Debug/net6.0/00_hello_world.deps.json
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/bin/Debug/net6.0/00_hello_world.runtimeconfig.json
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/bin/Debug/net6.0/00_hello_world.dll
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/bin/Debug/net6.0/ref/00_hello_world.dll
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/bin/Debug/net6.0/00_hello_world.pdb
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/00_hello_world.csproj.AssemblyReference.cache
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/00_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/00_hello_world.AssemblyInfoInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/00_hello_world.AssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/00_hello_world.csproj.CoreCompileInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/00_hello_world.dll
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/ref/00_hello_world.dll
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/00_hello_world.pdb
+/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/Debug/net6.0/00_hello_world.genruntimeconfig.cache

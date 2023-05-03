@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/00_hello_world.csproj",
-      "projectName": "00_hello_world",
-      "projectPath": "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/00_hello_world.csproj",
+      "projectUniqueName": "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/beginner.csproj",
+      "projectName": "beginner",
+      "projectPath": "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/beginner.csproj",
       "packagesPath": "/home/samueo/.nuget/packages/",
-      "outputPath": "/home/samueo/DIOprojects/temp/extras/exercism/00_hello_world/obj/",
+      "outputPath": "/home/samueo/DIOprojects/dotnet-projects/extras/exercism/beginner/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/samueo/.nuget/NuGet/NuGet.Config"
