@@ -1,0 +1,15 @@
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/bin/Debug/net6.0/personal
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/bin/Debug/net6.0/personal.deps.json
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/bin/Debug/net6.0/personal.runtimeconfig.json
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/bin/Debug/net6.0/personal.dll
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/bin/Debug/net6.0/ref/personal.dll
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/bin/Debug/net6.0/personal.pdb
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/personal.csproj.AssemblyReference.cache
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/personal.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/personal.AssemblyInfoInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/personal.AssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/personal.csproj.CoreCompileInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/personal.dll
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/ref/personal.dll
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/personal.pdb
+/home/samueo/DIOprojects/dotnet-projects/extras/personal/obj/Debug/net6.0/personal.genruntimeconfig.cache
