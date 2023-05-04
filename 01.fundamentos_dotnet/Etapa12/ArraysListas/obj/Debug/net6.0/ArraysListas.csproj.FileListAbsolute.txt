@@ -1,0 +1,15 @@
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/bin/Debug/net6.0/ArraysListas
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/bin/Debug/net6.0/ArraysListas.deps.json
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/bin/Debug/net6.0/ArraysListas.runtimeconfig.json
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/bin/Debug/net6.0/ArraysListas.dll
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/bin/Debug/net6.0/ref/ArraysListas.dll
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/bin/Debug/net6.0/ArraysListas.pdb
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ArraysListas.csproj.AssemblyReference.cache
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ArraysListas.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ArraysListas.AssemblyInfoInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ArraysListas.AssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ArraysListas.csproj.CoreCompileInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ArraysListas.dll
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ref/ArraysListas.dll
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ArraysListas.pdb
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/Etapa12/ArraysListas/obj/Debug/net6.0/ArraysListas.genruntimeconfig.cache

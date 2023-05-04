@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Etapa11.NET5/1.0.0": {
+        "runtime": {
+          "Etapa11.NET5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Etapa11.NET5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

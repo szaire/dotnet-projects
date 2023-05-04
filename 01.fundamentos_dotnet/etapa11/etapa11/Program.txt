@@ -1,0 +1,39 @@
+﻿// See https://aka.ms/new-console-template for more information
+using System;
+
+int numero = 5;
+
+// Laço FOR
+Console.WriteLine("Loop FOR");
+for (int contador = 1; contador <= 10; contador++)
+{
+    Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+}
+
+// Loop WHILE
+Console.WriteLine("Loop WHILE");
+int cnt = 1;
+
+while (cnt <= 10)
+{
+    Console.WriteLine($"{numero} x {cnt} = {numero * cnt}");
+    cnt++;
+
+    if (cnt == 6)
+    {
+        break;
+    }
+}
+
+// Loop DO-WHILE
+Console.WriteLine("Loop DO-WHILE");
+int soma = 0, numeroSoma = 0;
+
+do
+{
+    Console.Write("Digite um número (0 para parar): ");
+    numeroSoma = Convert.ToInt32(Console.ReadLine());
+    soma += numeroSoma;
+    
+} while (numeroSoma != 0);
+Console.WriteLine($"Seu somatório é: {soma}");

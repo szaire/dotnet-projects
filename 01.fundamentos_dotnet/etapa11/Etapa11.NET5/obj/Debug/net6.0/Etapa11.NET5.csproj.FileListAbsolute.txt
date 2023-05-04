@@ -1,0 +1,15 @@
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/bin/Debug/net6.0/Etapa11.NET5
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/bin/Debug/net6.0/Etapa11.NET5.deps.json
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/bin/Debug/net6.0/Etapa11.NET5.runtimeconfig.json
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/bin/Debug/net6.0/Etapa11.NET5.dll
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/bin/Debug/net6.0/ref/Etapa11.NET5.dll
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/bin/Debug/net6.0/Etapa11.NET5.pdb
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/Etapa11.NET5.csproj.AssemblyReference.cache
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/Etapa11.NET5.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/Etapa11.NET5.AssemblyInfoInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/Etapa11.NET5.AssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/Etapa11.NET5.csproj.CoreCompileInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/Etapa11.NET5.dll
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/ref/Etapa11.NET5.dll
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/Etapa11.NET5.pdb
+/home/samueo/DIOprojects/dotnet-projects/01.fundamentos_dotnet/etapa11/Etapa11.NET5/obj/Debug/net6.0/Etapa11.NET5.genruntimeconfig.cache
