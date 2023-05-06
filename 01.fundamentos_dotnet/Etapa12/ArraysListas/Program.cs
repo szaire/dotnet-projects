@@ -15,4 +15,18 @@ foreach (int var in arr)
 }
 
 // Redimensionando um Array
-Array.Resize
+Array.Resize(ref arr, arr.Length * 2);
+
+// Usando o copy:
+int[] newArr = new int[arr.Length * 2];
+Array.Copy(arr, newArr, arr.Length);
+
+// Método sequencial:
+int[] newArr2 = new int[arr.Length * 2];
+
+for (int i = 0; i < arr.Length; i++)
+{
+    newArr2[i] = arr[i];
+}
+
+// Listas
