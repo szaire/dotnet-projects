@@ -14,7 +14,7 @@ namespace ArraysListas.Common.Models
         /// <param name="y">O segundo número inteiro</param>
         public void Somar(int x, int y)
         {
-            Somar(3, 4);
+            Console.WriteLine($"{x} + {y} = {x + y}");
         }
 
         /// <summary>
@@ -25,10 +25,7 @@ namespace ArraysListas.Common.Models
         /// <returns>Retorna o resultado da subtração entre x e y</returns>
         public int Subtrair(int x, int y)
         {
-            Subtrair(3, 4);
             return x - y;
         }
-        public void Multiplicar();
-        public void Dividr();
     }
 }

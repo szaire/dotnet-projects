@@ -1,7 +1,12 @@
-﻿internal class Program
+﻿using ArraysListas.Common.Models;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
+        Pessoa pessoa = new Pessoa();
+        Calculadora calc = new Calculadora();
+
         int[] arr = new int[] { 23, 47, 12, 9 };
 
         // Loop em array com For
