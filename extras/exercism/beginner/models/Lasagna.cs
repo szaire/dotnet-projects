@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace beginner.models.Lasagna
+namespace beginner.models
 {
     public class Lasagna
     {
