@@ -91,5 +91,3 @@ internal class Program
         }
     }
 }
-
-// Listas
