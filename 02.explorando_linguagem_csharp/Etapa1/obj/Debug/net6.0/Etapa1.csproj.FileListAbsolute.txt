@@ -1,0 +1,15 @@
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/bin/Debug/net6.0/Etapa1
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/bin/Debug/net6.0/Etapa1.deps.json
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/bin/Debug/net6.0/Etapa1.runtimeconfig.json
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/bin/Debug/net6.0/Etapa1.dll
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/bin/Debug/net6.0/ref/Etapa1.dll
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/bin/Debug/net6.0/Etapa1.pdb
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/Etapa1.csproj.AssemblyReference.cache
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/Etapa1.AssemblyInfoInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/Etapa1.AssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/Etapa1.csproj.CoreCompileInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/Etapa1.dll
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/ref/Etapa1.dll
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/Etapa1.pdb
+/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa1/obj/Debug/net6.0/Etapa1.genruntimeconfig.cache

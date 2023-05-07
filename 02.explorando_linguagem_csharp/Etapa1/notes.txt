@@ -1,0 +1,11 @@
+============
+Propriedades
+============
+Membro que oferece um mecanismo flexível para ler, gravar ou 
+calcular o valor de um campo particular. É uma representação
+das características de um objeto do mundo real. É a representação
+dos valores dos atributos de uma classe.
+
+Exemplo: 
+Conta corrente -> possui um saldo. Não é possível sacar mais do que
+existe na conta corrente.
