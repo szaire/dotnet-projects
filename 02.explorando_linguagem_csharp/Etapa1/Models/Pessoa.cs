@@ -23,12 +23,22 @@ namespace Etapa1.Models
 	//			alteradas ou acessadas.
     public class Pessoa
     {
+        // Construtor:
+        // Método especial que pode fornecer valores iniciais à uma classe
+        // Geralemnte vem no começo da declaração da classe
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
         // Campos
         // Campos são membros de qualquer tipo que contém as
         // informações de uma classe e a eles estão associadas 
         // as propriedades, as quais são utilizadas para tratar
         // seus getters e setters
-        private string _nome;
+        private string _nome = "~";
+        private string _sobrenome = "~";
         private int _idade;
 
         // Propriedades
@@ -52,6 +62,21 @@ namespace Etapa1.Models
                 _nome = value;
             }
         }
+
+		public string Sobrenome
+		{
+            get => _sobrenome.ToUpper();
+
+			set 
+            {
+                if (value == "")
+                {
+                    throw new ArgumentException("Sobrenome inválido! Escreva um nome diferente de nulo.");
+                }
+                _sobrenome = value;
+            }
+        }
+
         public int Idade 
         {
             // Casual Implementation:
@@ -70,12 +95,15 @@ namespace Etapa1.Models
             }
         }
 
+        // Porpriedade apenas para leitura:
+        public string NomeCompleto => $"{Nome} {Sobrenome}";
+
         // Método
         public void Apresentar()
         {
             // Aqui se está utilizando o método "get" das propriedades
             // "Nome" e "Idade"
-            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
 }
