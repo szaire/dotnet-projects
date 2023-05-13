@@ -83,5 +83,46 @@ internal class Program
 
 		// É necessário estar atento ao usar o tipo dinâmico pois este pode representar qualquer outro tipo de
 		// variável, portanto, com desatenção podem vir a ocorrerem exceções imprevistas.
+
+		Console.WriteLine();
+		// Classes Genéricas
+		// São classes que abstraem qualquer tipo na criação de um objeto
+		// Exemplo: List<>
+
+		// Declarando o Array Genérico:
+		ArrayGenerico<int> arr = new ArrayGenerico<int>();
+		arr.Adicionar(10);
+		arr.Adicionar(11);
+		arr.Adicionar(55);
+		arr.Adicionar(14);
+
+		for (int i = 0; i < arr.Tamanho; i++)
+		{
+			Console.Write(arr[i] + " ");
+		}
+
+		Console.WriteLine();
+		// Declarando um arr genérico de object, a classe mais abstrata do C#:
+		ArrayGenerico<object> arrObj = new ArrayGenerico<object>();
+		arrObj.Adicionar("string");
+		arrObj.Adicionar('A');
+		arrObj.Adicionar(10);
+		arrObj.Adicionar(30.65M);
+		arrObj.Adicionar(.44444.ToString("F3"));
+
+		for (int i = 0; i < arrObj.Tamanho; i++)
+		{
+			Console.Write(arrObj[i] + " ");
+		}
+
+		Console.WriteLine("\n");
+		// Métodos de Extensão
+		// É possível declarar métodos que extendem, ou seja, ampliam o comportamento de
+		// determinados objetos ou tipos no c#. Como por exemplo, a declaração de um
+		// método de verficação de números pares ou ímpares:
+		int numero = 24;
+									  		   // O próprio valor do número está sendo usado
+									  		   // para verificar se a varíavel é par ou ímpar
+		Console.WriteLine($"O número {numero} é {(numero.ehPar() ? "par" : "ímpar")}");
 	}
 }

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gq8ofFC5TWbzbixbNnZpqQ7lYo6Twn6Xg31lHhHC5yQXeoa610UGhHdkzcrYWTy5e0oBr6Z3RL8gfTkPBmluDQ==",
+  "dgSpecHash": "pISBx3hXvU0dIlf6pXhU9fgxxdVYr0thO1vb/3kYwRmnoqImZVFKz9KTdhgFwwqzG/6cgXzb+dfeNJQrMlpMZA==",
   "success": true,
-  "projectFilePath": "/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa6/Etapa6.csproj",
+  "projectFilePath": "C:\\DIOprojects\\dotnet-projects\\02.explorando_linguagem_csharp\\Etapa6\\Etapa6.csproj",
   "expectedPackageFiles": [
-    "/home/samueo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\samue\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
