@@ -1,0 +1,26 @@
+[
+	{
+		"Id": 1,
+		"Nome_Produto": "Pacote de Canetas de Escritório",
+		"Preco": 10.00,
+		"Quantidade": 5,
+		"DataVenda": "2023-05-11T09:58:43.0516451-03:00",
+		"Desconto": null
+	},
+	{
+		"Id": 2,
+		"Nome_Produto": "Cadeira de Escritório",
+		"Preco": 85.00,
+		"Quantidade": 1,
+		"DataVenda": "2023-05-11T09:58:43.0516451-03:00",
+		"Desconto": 10
+	},
+	{
+		"Id": 3,
+		"Nome_Produto": "Monitor de Computador",
+		"Preco": 49.99,
+		"Quantidade": 1,
+		"DataVenda": "2023-05-11T09:58:43.0516451-03:00",
+		"Desconto": null
+	}	
+]
