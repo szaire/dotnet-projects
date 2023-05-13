@@ -21,6 +21,7 @@ namespace Etapa5.Models
         // Exemplo:
         [JsonProperty("Product_Name")]
         public string Name { get; set; }
+        
         public decimal Price { get; set; }
         public DateTime SaleDate { get; set; }
     }

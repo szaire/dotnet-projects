@@ -63,7 +63,7 @@ internal class Program
 
 		foreach (var item in listaProdutosTI)
 		{
-			Console.WriteLine($"ID: {item.Id}, Nome: {item.ProductName}, Preço: {item.Price}, Data de Venda: {item.SaleDate.ToString("dd/MM/yyyy HH:mm")}");
+			Console.WriteLine($"ID: {item.Id}, Nome: {item.Name}, Preço: {item.Price}, Data de Venda: {item.SaleDate.ToString("dd/MM/yyyy HH:mm")}");
 		}
 	}
 }
