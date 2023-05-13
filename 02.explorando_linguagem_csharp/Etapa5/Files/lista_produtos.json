@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Product_Name": "Manteiga de Amendoim",
+    "Price": 25.00,
+    "Time": "2023-05-11T17:51:43.786593-03:00"
+  },
+  {
+    "Id": 2,
+    "Product_Name": "Molho de Tomate",
+    "Price": 17.00,
+    "Time": "2023-05-11T17:51:43.8254297-03:00"
+  },
+  {
+    "Id": 3,
+    "Product_Name": "Abacaxi",
+    "Price": 6.00,
+    "Time": "2023-05-11T17:51:43.8254355-03:00"
+  },
+  {
+    "Id": 4,
+    "Product_Name": "Yorgut Natural",
+    "Price": 9.00,
+    "Time": "2023-05-11T17:51:43.8254362-03:00"
+  }
+]

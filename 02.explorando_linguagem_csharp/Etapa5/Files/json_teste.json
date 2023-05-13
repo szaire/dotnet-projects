@@ -1,0 +1,26 @@
+[
+	{
+		"Id": 1,
+		"ProductName": "Keyboard",
+		"Price": 45.00,
+		"SaleDate": "2023-05-11T09:58:43.0516451-03:00"
+	},
+	{
+		"Id": 2,
+		"ProductName": "Mouse",
+		"Price": 20.00,
+		"SaleDate": "2023-05-11T09:58:43.0849275-03:00"
+	},
+	{
+		"Id": 3,
+		"ProductName": "Motherboard",
+		"Price": 60.00,
+		"SaleDate": "2023-05-11T09:58:43.0849324-03:00"
+	},
+	{
+		"Id": 4,
+		"ProductName": "VGA Cable",
+		"Price": 15.00,
+		"SaleDate": "2023-05-11T09:58:43.0849329-03:00"
+	}
+]

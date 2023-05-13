@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etapa3", "Etapa3\Etapa3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etapa4", "Etapa4\Etapa4.csproj", "{A014D281-EF6F-4CCD-B9A7-AB763FEE20C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etapa5", "Etapa5\Etapa5.csproj", "{C7F4C29A-47AF-42D7-A5B8-82FA82A2DF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etapa6", "Etapa6\Etapa6.csproj", "{3A944C0B-3114-4B91-80E4-51823A13CD49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{A014D281-EF6F-4CCD-B9A7-AB763FEE20C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A014D281-EF6F-4CCD-B9A7-AB763FEE20C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A014D281-EF6F-4CCD-B9A7-AB763FEE20C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F4C29A-47AF-42D7-A5B8-82FA82A2DF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F4C29A-47AF-42D7-A5B8-82FA82A2DF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F4C29A-47AF-42D7-A5B8-82FA82A2DF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F4C29A-47AF-42D7-A5B8-82FA82A2DF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A944C0B-3114-4B91-80E4-51823A13CD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A944C0B-3114-4B91-80E4-51823A13CD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A944C0B-3114-4B91-80E4-51823A13CD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A944C0B-3114-4B91-80E4-51823A13CD49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
