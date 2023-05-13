@@ -5,10 +5,14 @@
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {}
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {}
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -51,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "/home/samueo/.nuget/packages/": {}
+    "C:\\Users\\samue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa6/Etapa6.csproj",
+      "projectUniqueName": "C:\\DIOprojects\\dotnet-projects\\02.explorando_linguagem_csharp\\Etapa6\\Etapa6.csproj",
       "projectName": "Etapa6",
-      "projectPath": "/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa6/Etapa6.csproj",
-      "packagesPath": "/home/samueo/.nuget/packages/",
-      "outputPath": "/home/samueo/DIOprojects/dotnet-projects/02.explorando_linguagem_csharp/Etapa6/obj/",
+      "projectPath": "C:\\DIOprojects\\dotnet-projects\\02.explorando_linguagem_csharp\\Etapa6\\Etapa6.csproj",
+      "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
+      "outputPath": "C:\\DIOprojects\\dotnet-projects\\02.explorando_linguagem_csharp\\Etapa6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/samueo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -98,7 +102,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -107,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.116/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
