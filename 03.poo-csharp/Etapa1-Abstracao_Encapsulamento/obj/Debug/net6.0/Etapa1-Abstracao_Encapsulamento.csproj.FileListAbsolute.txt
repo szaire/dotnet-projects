@@ -1,0 +1,15 @@
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/bin/Debug/net6.0/Etapa1-Abstracao_Encapsulamento
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/bin/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.deps.json
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/bin/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.runtimeconfig.json
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/bin/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.dll
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/bin/Debug/net6.0/ref/Etapa1-Abstracao_Encapsulamento.dll
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/bin/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.pdb
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.csproj.AssemblyReference.cache
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.AssemblyInfoInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.AssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.csproj.CoreCompileInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.dll
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/ref/Etapa1-Abstracao_Encapsulamento.dll
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.pdb
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa1-Abstracao_Encapsulamento/obj/Debug/net6.0/Etapa1-Abstracao_Encapsulamento.genruntimeconfig.cache
