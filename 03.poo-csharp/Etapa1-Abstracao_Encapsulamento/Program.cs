@@ -73,6 +73,20 @@
 // tomar ciência que adicionar camadas de herança deve ser feito apenas se for
 // de extrema necessidade. (Ver classe Diretor)
 
+// O que é polimorfismo?
+// Polimofirsmo é a ocorrência da sobrescrita de uma declaração previamente 
+// feita (ocorre em relações de herança). Para simplificar, é a substituição
+// de um método que se comporta de maneira X de uma classe Pai para um
+// método que se comporta de maneira Y de uma classe Filha. (Ver classe Aluno
+// e Professor).
+// OS DOIS TIPOS DE POLIMORFISMO:
+// - Em tempo de compilação (Sobrecarga, Overload/Early Binding): Métodos com
+// assinaturas iguais, tipos de retorno igual, porém, com quantidade de parâmetros
+// diferentes (Ver classe Professor);
+// - Em tempo de Execução (Sobrescrita, Override/Late Binding): Métodos com
+// assinaturas iguais, porém, dependentes de uma relação de herança (há a
+// presença das keywords "virtual" e "override")
+
 using Etapa1.Models;
 using System.Globalization;
 

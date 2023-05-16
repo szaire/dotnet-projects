@@ -19,5 +19,16 @@ namespace Etapa1.Models
 
 		// Propriedades contidas apenas em Aluno:
 		public double Nota { get; set; }
+
+		// Polimorfismo em tempo de execução:
+		// para sinalizar que a sobrescrita de métodos irá
+		// ocorrer, basta declarar o método derivado com a
+		// mesma assinatura e com a keyword "override", a
+		// irá sobrescrever o método original declarado
+		// como "virtual".
+		public override void Apresentar()
+		{
+			Console.WriteLine($"Nome: {Nome} {Sobrenome}, Idade: {Idade}, Nota: {Nota}");
+		}
 	}
 }

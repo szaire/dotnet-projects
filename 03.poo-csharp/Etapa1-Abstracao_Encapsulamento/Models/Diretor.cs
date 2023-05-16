@@ -12,6 +12,5 @@ namespace Etapa1.Models
         // todas as declarações de Pessoa. Dessa forma,
         // Diretor possui tanto as declarações de Professor
         // quanto de Pessoa.
-        
     }
 }
