@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etapa1-Abstracao_Encapsulamento", "Etapa1-Abstracao_Encapsulamento\Etapa1-Abstracao_Encapsulamento.csproj", "{D65144BA-FA8F-4564-8D2E-ABB45E31A02D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etapa3-Classe_Abstrata_Interface", "Etapa3-Classe_Abstrata_Interface\Etapa3-Classe_Abstrata_Interface.csproj", "{692FD61C-1F20-4C69-947A-A0A103FEA06D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D65144BA-FA8F-4564-8D2E-ABB45E31A02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D65144BA-FA8F-4564-8D2E-ABB45E31A02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D65144BA-FA8F-4564-8D2E-ABB45E31A02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692FD61C-1F20-4C69-947A-A0A103FEA06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692FD61C-1F20-4C69-947A-A0A103FEA06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692FD61C-1F20-4C69-947A-A0A103FEA06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692FD61C-1F20-4C69-947A-A0A103FEA06D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

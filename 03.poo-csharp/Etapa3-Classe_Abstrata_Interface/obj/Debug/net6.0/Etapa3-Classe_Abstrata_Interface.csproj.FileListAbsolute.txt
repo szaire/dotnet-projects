@@ -1,0 +1,15 @@
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/bin/Debug/net6.0/Etapa3-Classe_Abstrata_Interface
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/bin/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.deps.json
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/bin/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.runtimeconfig.json
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/bin/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.dll
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/bin/Debug/net6.0/ref/Etapa3-Classe_Abstrata_Interface.dll
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/bin/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.pdb
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.csproj.AssemblyReference.cache
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.AssemblyInfoInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.AssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.csproj.CoreCompileInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.dll
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/ref/Etapa3-Classe_Abstrata_Interface.dll
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.pdb
+/home/samueo/DIOprojects/dotnet-projects/03.poo-csharp/Etapa3-Classe_Abstrata_Interface/obj/Debug/net6.0/Etapa3-Classe_Abstrata_Interface.genruntimeconfig.cache
