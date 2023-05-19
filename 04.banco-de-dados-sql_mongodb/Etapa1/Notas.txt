@@ -1,0 +1,64 @@
+O que é um banco de dados?
+
+Resumidamente: Um local para armazenar, consultar e gerenciar dados
+
+Especificamente: O banco de dados é um coleção organizada de informações
+estruturadas, normalmente armazenadas eletronicamnete em um sistema
+computacional.
+
+O banco de dados pode armazenar informações abstratas referentes ao
+mundo real e, inclusive, os mesmos tipos utilizados em computação, como
+strings, inteiros, booleanos, etc.
+
+Um banco de dados pode ser acessado por vários sistemas com objetivos e 
+arquiteturas diferentes, tais como: API's, Nuvem, Web (Que é utilizada por
+Clientes e Servidores), e diversos outros. Ao ser acessado, o banco de
+dados poderá consultar, inserir, atualizar ou deletar determinados dados 
+de acordo com as instruções dadas. O banco de dados tem o dever de atender
+todas as requisições de uma maneira inteligente.
+
+================================================================================
+Quais os tipos de bancos de dados?
+
+Banco de dados Relacional (SQL):
+Banco de dados baseado em relações, ou seja, a lógica de organização
+em tabelas que contém linhas e colunas que se relacionam entre si. Esse
+conceito pode lembrar como planilhas no Excel são organizadas, porém,
+são conceitos diferentes.
+É o mais usado atualmente para armazenar dados estruturados.
+Para cada demanda da vida real, existe um banco de dados adequado,
+ou seja, depende muito do objetivo de uso.
+
+* O que é uma tabela?
+	Dados estruturados na relação linha x coluna onde cada coluna representa
+	as características de cada linha e cada linha representa as entidades
+	armazenadas no banco de dados.
+	As tabelas podem relacionar-se entre si e complementarem informações
+	(Ver Imagem 1).
+
+Banco de dados Não-Relacional (No-SQL):
+Não sei baseia em relação e não possui uma estrutura rígida de organização.
+Basicamente, são aglomerados de dados armazenados que podem seguir
+padrões "não-estruturados" (o arquivo bruto em si) ou "semi-estruturados"
+(organizados em tipos de dados como key-value em JSON, por exemplo). 
+
+* Vantagens em relação ao Relacional:
+	- Por não possuir uma estrutura rígida de armazenamento, são mais
+	leves e, consequentemente, mais rápidos em realizarem consultas.
+	São ideais para armazenar uma grande quantidade de dados.
+
+Qual a diferença entre as regras de um BD Estruturado e Semi-estruturado?
+	- Um banco de dados estruturados apresentará regras rígidas e acordos quanto
+	aos tipos de dados aceitos em cada coluna das tabelas, outras tabelas dentro
+	de uma relação e diversas outras coisas.
+	- Um banco de dados não-estruturado não possui regras claras quanto aos tipos
+	de dados armazenados, quantidade de elementos, relação entre elementos, etc.
+	(Ver Imagem 2 para notar melhor as diferenças) 
+
+Afinal, qual é melhor entre os dois tipos?
+Depende muito do contexto e objetivo da situação, pois, ambos são
+bancos de dados diferentes que servem para propósitos  e aplicações
+diferentes.
+
+
+
