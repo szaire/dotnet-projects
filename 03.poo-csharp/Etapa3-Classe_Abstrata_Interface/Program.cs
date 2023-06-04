@@ -60,5 +60,6 @@ internal class Program
 		Console.WriteLine("Exibir valor Conta Crédito:");
 		c2.Creditar(valor);
 		c2.ExibirSaldo();
+		Console.WriteLine();
 	}
-}
+}						

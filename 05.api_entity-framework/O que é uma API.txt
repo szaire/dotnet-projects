@@ -1,0 +1,33 @@
+API significa Application Programming Interface
+
+API é o software responsável por fazer a intermediação/integração
+entre o cliente (aplicativo/website) e o servidor (banco de dados)
+
+Exemplo clássico:
+	+ Restaurante:
+		- Cliente (Aplicação)
+		- Garçom (API)
+		- Cozinheiro (Servidor)
+	+ Explicação:
+		- O cliente não é responsável por realizar o pedido diretamente
+		para o cozinheiro, pois pode ocorrer falhas na comunicação e
+		outros tipos de erros. Além do mais, o cozinheiro não é responsável
+		por organizar os pedidos de vários clientes. Quem realiza essa
+		comunicação e organização é o Garçom.
+	+ Comparação:
+		O mesmo ocorre para o mundo da computação. Um programa não poderá somente
+		integrar um sistema de um único local (nesse caso, um restaurante), mas
+		de vários locais diferentes na web. Dessa forma, um intermediador (API) é
+		necessário para impedir que redundância de código ocorra entre a Aplicação
+		e o Servidor.
+
+Exemplos práticos:
+	+ API intermediando sistemas entre empresas diferentes. Ambas as empresas
+	não podem ter noção do banco de dados ou estrutura de cada uma, pois isso poderia
+	acarretar em uma violação de dados privados. Dessa forma, a API servirá como
+	intermediadora dessa comunicação, impedindo que o acesso indevido ocorra
+	+ API intermediando sistemas internos. Por exemplo: a integração entre o front-end
+	(aquilo que será visual e interativo) e o banco de dados ocorre por meio do
+	back-end, ou seja, uma API.
+
+Uma API pode ser offline ou online

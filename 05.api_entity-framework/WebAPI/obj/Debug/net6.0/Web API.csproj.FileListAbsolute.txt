@@ -1,0 +1,27 @@
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/appsettings.Development.json
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/appsettings.json
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Web API
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Web API.deps.json
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Web API.runtimeconfig.json
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Web API.dll
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/ref/Web API.dll
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Web API.pdb
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.csproj.AssemblyReference.cache
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.GeneratedMSBuildEditorConfig.editorconfig
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.AssemblyInfoInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.AssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.csproj.CoreCompileInputs.cache
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.MvcApplicationPartsAssemblyInfo.cs
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.MvcApplicationPartsAssemblyInfo.cache
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/staticwebassets.build.json
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/staticwebassets.development.json
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/scopedcss/bundle/Web API.styles.css
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.csproj.CopyComplete
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.dll
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/ref/Web API.dll
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.pdb
+/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/WebAPI/obj/Debug/net6.0/Web API.genruntimeconfig.cache

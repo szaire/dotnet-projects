@@ -1,0 +1,44 @@
+O que é SQL?
+Significa Structured Query Language (em português: Linguagem de
+Consulta Estrutura). É a Linguagem padrão para manipulação
+de banco de dados RELACIONAIS , contendo apenas comandos de 
+simples utilização que servem para executar funções dentro
+de um algoritmo com extensão SQL.
+
+Flavor de SQL que será utilizado: SQL Server
+
+Existem 5 tipos de categorias de comandos no SQL, cada uma contendo
+um conjunto de comandos, estes sendo:
+1 - DDL: Data Definition Language
+	- CREATE, DROP, ALTER, TRUNCATE
+2 - DCL: Data Control Languagem
+	- GRANT, REVOKE
+3 - DML: Data Manipulation Language
+	- INSERT, UPDATE, DELETE
+4 - TCL: Transaction Control Language
+	- COMMIT, ROLLBACK, SAVEPOINT
+5 - DQL: Data Query Language
+	- SELECT
+
+Dessas 5 as mais utilizadas serão a DML e a DQL
+
+Estrutura de um projeto ede banco de dados:
+Hierarquia:
+- Servidor do Banco de dados
+	|
+	-> Banco de de dados 1
+	-> Banco de de dados 2
+	-> Banco de de dados 3
+		|
+		-> Tabela 1
+		-> Tabela 2
+		-> Tabela 3
+
+Ou seja, no exemplo evidenciado acima, podemos visualizar que a
+raiz de todo o projeto é O Servidor em que o banco de dados se encontra.
+O servidor de banco de dados pode possuir um ou mais bancos de dados,
+que se diferenciarão de acordo com a classificação dos dados que eles irão
+guardar, por exemplo: poderá havar um banco de dados individual para clientes,
+para adminsitradores, para produtos, etc. Cada banco de dados possuirá
+suas tabelas, as quais serão as coleções de dados armazenadas, organizadas,
+agrupadas e possivelmente relacionadas entre si. 
