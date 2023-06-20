@@ -19,6 +19,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9Dcmlhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Etapa3/Views/Contato/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9EZXRhbGhlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Etapa3/Views/Contato/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9FZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/samueo/DIOprojects/dotnet-projects/05.api_entity-framework/Etapa3/Views/Contato/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGF0by9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -41,21 +41,21 @@
 			{
 				<tr>
 					<td>
-						@Html.DisplayNameFor(model => item.Id)
+						@Html.DisplayFor(model => item.Id)
 					</td>
 					<td>
-						@Html.DisplayNameFor(model => item.Nome)
+						@Html.DisplayFor(model => item.Nome)
 					</td>
 					<td>
-						@Html.DisplayNameFor(model => item.Numero)
+						@Html.DisplayFor(model => item.Numero)
 					</td>
 					<td>
-						@Html.DisplayNameFor(model => item.Ativo)
+						@Html.DisplayFor(model => item.Ativo)
 					</td>
 					<td>
-						<a asp-action="Editar" asp-route-id="item.Id">Editar</a> |
-						<a asp-action="Detalhes" asp-route-id="item.Id">Detalhes</a> |
-						<a asp-action="Deletar" asp-route-id="item.Id">Deletar</a>
+						<a asp-action="Editar" asp-route-id="@item.Id">Editar</a> |
+						<a asp-action="Detalhes" asp-route-id="@item.Id">Detalhes</a> |
+						<a asp-action="Deletar" asp-route-id="@item.Id">Deletar</a>
 					</td>
 				</tr>
 			}
