@@ -1,0 +1,65 @@
+@* 
+	- "@model" é uma diretiva que determina qual o tipo de dado que a View estará 
+	esperando receber
+	- "IEnumerable" é um tipo de dado que instancia uma coleção não genérica de dados
+*@
+@model IEnumerable<Etapa3.Models.Contato>
+
+@* Escrevendo código Server-Side com Razor Code Block Syntax *@
+@{
+	ViewData["Title"] = "Listagem de Contatos";
+	@* Essa declração altera diretamente o título da página cshtml *@
+}
+
+<body>
+	<h2>Contatos</h2>
+	
+	<p>
+		<a asp-action="Criar">Novo Contato</a>
+	</p>
+
+	<table class="table">
+		<thead>
+			<tr>
+				<th>
+					@Html.DisplayNameFor(model => model.Id)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.Nome)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.Numero)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.Ativo)
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>
+						@Html.DisplayNameFor(model => item.Id)
+					</td>
+					<td>
+						@Html.DisplayNameFor(model => item.Nome)
+					</td>
+					<td>
+						@Html.DisplayNameFor(model => item.Numero)
+					</td>
+					<td>
+						@Html.DisplayNameFor(model => item.Ativo)
+					</td>
+					<td>
+						<a asp-action="Editar" asp-route-id="item.Id">Editar</a> |
+						<a asp-action="Detalhes" asp-route-id="item.Id">Detalhes</a> |
+						<a asp-action="Deletar" asp-route-id="item.Id">Deletar</a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+		
+</body>

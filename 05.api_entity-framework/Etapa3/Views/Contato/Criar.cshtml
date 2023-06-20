@@ -1,0 +1,40 @@
+@model Etapa3.Models.Contato;
+
+@{
+	ViewData["title"] = "Criar Novo Contato";
+}
+
+<body>
+	<h1>Criar Novo Contato</h1>
+
+	<hr>
+
+	<div class="row">
+		<div class="col-md-4">
+			<form asp-action="Criar">
+				<div class="form-group">
+					<label asp-for="Nome" class="control-label"></label>
+					<input asp-for="Nome" class="form-control" type="text" />
+				</div>
+				<br>
+				<div class="form-group">
+					<label asp-for="Numero" class="control-label">Número de Telefone</label>
+					<input asp-for="Numero" class="form-control" type="text" />
+				</div>
+				<br>
+				<div class="form-group">
+					<label asp-for="Ativo" class="control-label"></label>
+					<input asp-for="Ativo" class="form-check-input" type="checkbox" />
+				</div>
+				<br>
+				<div class="form-group">
+					<input type="submit" class="btn btn-primary" value="Criar" />
+				</div>
+			</form>
+			<br>
+		</div>
+	</div>
+	<div>
+		<a asp-action="Index">Voltar para a página anterior</a>
+	</div>
+</body>

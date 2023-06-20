@@ -1,0 +1,12 @@
+O Padrão MVC significa: Model - View - Controller
+
+Model (Modelagem): Identifica nossa entidade, ou seja, nossa classe responsável por
+realizar a comunicação com o banco de dados em si (como um CRUD)
+View (Visualização): O que o usuário irá enxergar visualmente (front-end).
+Controller (Controlador): A classe responsável por permitir o fluxo de requisições
+entre o front-end e o back-end
+
+Fluxo de trabalho:
+A View será responsável por resgatar os dados que o usuário inseriu
+O Controller irá resgatar esses dados, tratá-los e então redirecioná-los para o DB
+A Model irá adequar esses dados ao modelo estabelecido do banco de dados 

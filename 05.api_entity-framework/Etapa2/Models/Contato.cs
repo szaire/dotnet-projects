@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 // como as propriedades representadas abaixo. Ela será útil para determinar
 // as colunas da sua tabela.
 
+// Ela é uma lcasse manipulada na API e, ao mesmo tempo, uma tabela editável
+// no banco de dados
+
 namespace Etapa2.Models
 {
     public class Contato

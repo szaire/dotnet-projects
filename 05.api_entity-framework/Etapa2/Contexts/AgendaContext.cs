@@ -10,6 +10,10 @@ using Microsoft.EntityFrameworkCore;
 // EntityFramework e Banco de Dados e gerenciar as tabelas, elementos, dados
 // e etc.
 
+// É uma classe que acessa o banco de dados e realiza a conexão com o banco por
+// meio do parâmetro "options", que representa justamente a connection string
+// determinada								
+
 namespace Etapa2.Contexts
 {
 	public class AgendaContext : DbContext
